@@ -1,0 +1,19 @@
+{
+  "name": "webpage-test-results",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praWeb/webpage-test-results.git"
+  },
+  "author": "Shift Commerce <prasanna.virigineni@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praWeb/webpage-test-results/issues"
+  },
+  "homepage": "https://github.com/praWeb/webpage-test-results#readme"
+}

@@ -13,6 +13,7 @@
   },
   "name": "webpage-test-results",
   "scripts": {
+    "start": "node server.js"
   },
   "stack": "heroku-18"
 }

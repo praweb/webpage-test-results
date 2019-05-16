@@ -3,7 +3,7 @@
 latency: 10
 speedIndex: 100
 loadTime: 4
-
+domInteractive: 1
 
 # ENV Configurations
 RUN_PERIODICALLY: false

@@ -3,8 +3,11 @@
 latency: 10
 speedIndex: 100
 loadTime: 4
+visualComplete: 500
+speedScore: 50
 
 
 # ENV Configurations
 RUN_PERIODICALLY: false
 RUN_PER_COMMIT: true
+

@@ -11,3 +11,5 @@ speedScore: 50
 RUN_PERIODICALLY: false
 RUN_PER_COMMIT: true
 
+# PATH TO TEST
+TEST_PATH: '/check'
